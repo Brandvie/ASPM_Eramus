@@ -1,0 +1,301 @@
+# Application Preparation
+
+## 1. Objective
+
+The objective of this stage is to prepare the information and documents required to apply for the selected Erasmus+ traineeship opportunities.
+
+The three internship opportunities selected during the research stage are:
+
+1. Full-Stack Developer – PRIOT Digital Systems, Maribor, Slovenia
+2. Game Development Intern – JP IT Solutions & Consulting, Kavala, Greece
+3. Software Development & Hardware Integration Trainee – Geel, Belgium
+
+The application preparation focuses on creating professional application documents and ensuring that my skills and experience are relevant to each internship.
+
+---
+
+## 2. Documents Prepared
+
+### CV
+
+I prepared and updated my CV to present my education, technical skills, projects and relevant professional experience.
+
+The CV includes:
+
+- BSc (Hons) Software Development at Dundalk Institute of Technology
+- Java
+- C#
+- C++
+- Python
+- JavaScript
+- HTML and CSS
+- SQL
+- MongoDB
+- Git and GitHub
+- Object-Oriented Programming
+- Full-stack development
+- UX Design
+- Software Testing
+- Relevant academic projects
+- Professional experience
+- English and French language skills
+
+The CV was adapted to focus on software development and Erasmus+ traineeship opportunities.
+
+**Output:** `Brandyvie_Mbuyi_Mayombo_CV.pdf`
+
+---
+
+## 3. Portfolio
+
+A software development portfolio was prepared to provide employers with evidence of my practical skills and academic projects.
+
+The portfolio contains three main projects:
+
+### Book Collection Management
+
+**Area:** Object-Oriented Programming / Java
+
+This project demonstrates my experience with object-oriented programming and application development.
+
+Skills demonstrated:
+
+- Java
+- Object-Oriented Programming
+- Classes and objects
+- Application structure
+- Database/persistence concepts
+- Problem solving
+
+### LEGO Full-Stack Website
+
+**Area:** Full-Stack Web Development
+
+This project demonstrates my experience developing a web application using frontend and backend concepts.
+
+Skills demonstrated:
+
+- HTML
+- CSS
+- JavaScript
+- Full-stack development
+- Database concepts
+- Debugging
+- Software testing
+
+### Horror Game Design
+
+**Area:** UX Design / Game Development
+
+This project demonstrates my interest in games and user experience.
+
+Skills demonstrated:
+
+- UX design
+- User-centred design
+- Interaction design
+- Game design
+- Creative problem solving
+
+**Output:** `Brandyvie_Mbuyi_Mayombo_Erasmus_Portfolio.pdf`
+
+---
+
+## 4. Internship Information
+
+I collected the important application information for each selected internship.
+
+| Internship | Location | Duration | Main Area |
+|---|---|---:|---|
+| Full-Stack Developer | Maribor, Slovenia | 5 months | Full-stack development |
+| Game Development Intern | Kavala, Greece | 3 months | Game development |
+| Software Development & Hardware Integration | Geel, Belgium | Minimum 3 months | Software / hardware integration |
+
+The information collected includes:
+
+- Company name
+- Internship title
+- Country and city
+- Internship duration
+- Required education
+- Programming languages
+- Technical requirements
+- Language requirements
+- Work arrangement
+- Application requirements
+- Financial information
+- Accommodation information where available
+- Internship source/link
+
+---
+
+## 5. Skills Matching
+
+I compared my current skills with the requirements of the internships.
+
+### Slovenia – Full-Stack Developer
+
+**Skills I already have:**
+
+- JavaScript
+- HTML
+- CSS
+- SQL
+- Database knowledge
+- Git/GitHub
+- Full-stack development
+- Software development
+
+**Skills I would like to improve:**
+
+- Vue.js
+- Nuxt.js
+- Python
+- ASP.NET
+- REST APIs
+- Professional full-stack development workflows
+
+### Greece – Game Development
+
+**Skills I already have:**
+
+- C++
+- C#
+- Programming fundamentals
+- UX Design
+- Game design
+- Git/GitHub
+- Software development
+
+**Skills I would like to improve:**
+
+- Unreal Engine
+- Professional game development
+- Gameplay programming
+- 3D development
+- Blender
+- Professional game-development workflows
+
+### Belgium – Software Development & Hardware Integration
+
+**Skills I already have:**
+
+- C#
+- Java
+- Object-Oriented Programming
+- Software testing
+- Debugging
+- Database knowledge
+- Application development
+
+**Skills I would like to improve:**
+
+- .NET development
+- Hardware integration
+- RFID-related systems
+- Professional QA/testing environments
+- Working with real-world integrated systems
+
+---
+
+## 6. Application Checklist
+
+| Requirement | Slovenia | Greece | Belgium |
+|---|---|---|---|
+| Internship researched | Done | Done | Done |
+| Requirements checked | Done | Done | Done |
+| CV prepared | Done | Done | Done |
+| Portfolio prepared | Done | Done | Done |
+| Company researched | Done | Done | Done |
+| Cover letter template | Done | Done | Done |
+| Skills matched | Done | Done | Done |
+| Application information recorded | Done | Done | Done |
+| Application submitted | To be completed | To be completed | To be completed |
+
+---
+
+## 7. Cover Letter Preparation
+
+A general cover letter template was prepared so that it can be adapted for each company.
+
+The cover letter will explain:
+
+- My current Software Development degree
+- Why I am interested in an Erasmus+ traineeship
+- My technical skills
+- My relevant academic projects
+- My interest in the specific internship
+- What I can contribute to the company
+- The skills I want to develop
+- My motivation to work in an international environment
+
+Each application will be customised rather than sending exactly the same cover letter to every company.
+
+**Output:** `Cover-Letter-Template.docx`
+
+---
+
+## 8. GitHub Portfolio
+
+My GitHub profile is used to provide evidence of my programming and software development work.
+
+**GitHub:** https://github.com/Brandvie
+
+The portfolio projects should contain:
+
+- Project description
+- Technologies used
+- Main features
+- My contribution
+- Screenshots where appropriate
+- Instructions for running the project
+- Relevant source code
+- README documentation
+
+---
+
+## 9. Definition of Done
+
+This application preparation task will be considered complete when:
+
+- [x] Three suitable internships have been identified
+- [x] Internship requirements have been recorded
+- [x] CV has been prepared
+- [x] Portfolio has been prepared
+- [x] Relevant skills have been identified
+- [x] Skills have been compared with internship requirements
+- [x] Cover letter template has been prepared
+- [x] Application checklist has been created
+- [x] GitHub portfolio has been organised
+- [ ] Applications are submitted when the appropriate application process is available
+
+---
+
+## 10. Scrum Evidence
+
+**Product Backlog Item:**  – Application Preparation
+
+**Sprint:** Sprint 2 – Application Preparation
+
+**Objective:** Prepare all information and documents required for Erasmus+ internship applications.
+
+**Estimated Time:** [Enter estimate from Scrumwise]
+
+**Actual Time:** [Enter actual time after completing the task]
+
+**Status:** In Progress / Complete
+
+### Outputs
+
+- CV PDF
+- Erasmus+ Portfolio PDF
+- Cover Letter Template
+- Internship Application Checklist
+- Skills Matching
+- GitHub project documentation
+
+### Evidence
+
+GitHub repository:
+
+https://github.com/Brandvie
